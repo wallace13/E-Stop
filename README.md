@@ -14,3 +14,10 @@
 <br />
 <br />
 <br />
+# Autores
+
+| [<img src="https://avatars.githubusercontent.com/u/85044216?v=4" width=115><br><sub>Bruna Cunha</sub>](https://github.com/bruna-borgess) |  
+[<img src="https://avatars.githubusercontent.com/u/22775431?v=4" width=115><br><sub>Hudson Lessa</sub>](https://github.com/hudsonlessa) |  
+[<img src="https://avatars.githubusercontent.com/u/49043987?v=4" width=115><br><sub>Wallace Sales</sub>](https://github.com/wallace13) |
+| :---: | :---: | :---: |
+
