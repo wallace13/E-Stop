@@ -2,10 +2,6 @@
 <br />
 <p align="center">
     <img src="https://user-images.githubusercontent.com/49043987/190279860-e0451898-a88a-4760-bb4d-73c135fbb967.png" alt="Logo" width="360">
-    <p align="center">
-    <br />
-    <a href="https://wallace13.github.io/estop/">Saiba Mais</a>
-  </p>
 </p>
 <br />
 <br />
@@ -13,6 +9,10 @@
 ## ⚙️ Objetivo do Projeto
 
 Facilitar o controle de vagas e o controle de clientes assinantes de estacionamentos privados na cidade do Rio de Janeiro, bem como melhorar o acesso à informação sobre disponibilidade de vagas e também o acesso a estas mesmas vagas.
+
+## 📁 Saiba Mais Informações
+Você pode conferir mais informações do projeto clicando [aqui](https://wallace13.github.io/estop/).
+
 
 ## ✒️ Autores
 
