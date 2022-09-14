@@ -9,6 +9,7 @@
 </p>
 <br />
 <br />
+
 ## ⚙️ Objetivo do Projeto
 
 Facilitar o controle de vagas e o controle de clientes assinantes de estacionamentos privados na cidade do Rio de Janeiro, bem como melhorar o acesso à informação sobre disponibilidade de vagas e também o acesso a estas mesmas vagas.
