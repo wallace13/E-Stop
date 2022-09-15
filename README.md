@@ -12,14 +12,14 @@ Facilitar o controle de vagas e o controle de clientes assinantes de estacioname
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1` Permitir o cadastro de usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
-- `Funcionalidade 2` Armazenar em um banco os dados relativos a usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
-- `Funcionalidade 3` Permitir o login e logout de usuários;
-- `Funcionalidade 4` Possibilitar o registro digital de entrada e saída de veículos do estacionamento;
-- `Funcionalidade 5` Permitir a consulta a clientes cadastrados e a veículos;
-- `Funcionalidade 6` Permitir o acesso ao relatório gerado sobre cada determinado período com diversas informações;
-- `Funcionalidade 7` Permitir a reserva de vaga do estacionamento parceiro escolhido para a data e horário definidos pelo usuário;
-- `Funcionalidade 8` Solicitar o pagamento antecipado por cartão de débito ou crédito;
+- Permitir o cadastro de usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
+- Armazenar em um banco os dados relativos a usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
+- Permitir o login e logout de usuários;
+- Possibilitar o registro digital de entrada e saída de veículos do estacionamento;
+- Permitir a consulta a clientes cadastrados e a veículos;
+- Permitir o acesso ao relatório gerado sobre cada determinado período com diversas informações;
+- Permitir a reserva de vaga do estacionamento parceiro escolhido para a data e horário definidos pelo usuário;
+- Solicitar o pagamento antecipado por cartão de débito ou crédito;
 
 ## 📁 Saiba Mais
 Você pode conferir mais informações do projeto clicando [aqui](https://wallace13.github.io/estop/).
