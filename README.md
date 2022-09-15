@@ -13,7 +13,7 @@ Facilitar o controle de vagas e o controle de clientes assinantes de estacioname
 ## 🔨 Funcionalidades do projeto
 
 - `Funcionalidade 1` Permitir o cadastro de usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
-- `Funcionalidade 2` – Armazenar em um banco os dados relativos a usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
+- `Funcionalidade 2` Armazenar em um banco os dados relativos a usuários do aplicativo, veículos, estacionamentos e funcionários usuários do software de gerenciamento;
 - `Funcionalidade 3` Permitir o login e logout de usuários;
 - `Funcionalidade 4` Possibilitar o registro digital de entrada e saída de veículos do estacionamento;
 - `Funcionalidade 5` Permitir a consulta a clientes cadastrados e a veículos;
